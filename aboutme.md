@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who Am I
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Alan Wang. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a hobbist programmer 
+- stubborn to get things to work and make sure they stay working
 
-What else do you need?
+What else do you want from me? 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Drifting along One's and Zero's until something exciting happens
