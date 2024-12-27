@@ -13,4 +13,4 @@ What else do you want from me?
 
 ### My story
 
-Drifting along One's and Zero's until something exciting happens
+Consuming Ones and Zeros until something exciting happens

@@ -21,10 +21,13 @@ author: Alan Wang
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Works:
+     - Personal: "personalprojects"
+     - Coursework: "collegeprojects"
+  Author's home: "https://passingboredom.github.io/"
+#  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://passingboredom.github.io/"
 
 ################
 # --- Logo --- #
