@@ -142,7 +142,7 @@ text-col: "#5E5E5E"             # Light text color for readability
 link-col: "#64B5F6"             # Light blue links for contrast
 hover-col: "#42A5F5"            # Hover effect on links (slightly darker blue) 
 navbar-col: "#333333"           # Dark background for navbar 
-navbar-text-col: "#E0E0E0"      # Light text in the navbar 
+navbar-text-col: "#5E5E5E"      # Light text in the navbar 
 navbar-border-col: "#444444"    # Slightly lighter border for navbar 
 footer-col: "#333333"           # Dark footer background
 footer-text-col: "#B0B0B0"      # Lighter text color for footer 
