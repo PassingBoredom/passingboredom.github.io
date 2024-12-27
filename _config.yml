@@ -134,17 +134,30 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+# page-col: "#FFFFFF"             # default settings
+# text-col: "#404040"             # default settings
+# link-col: "#008AFF"             # default settings
+# hover-col: "#0085A1"            # default settings
+# navbar-col: "#EAEAEA"           # default settings
+# navbar-text-col: "#404040"      # default settings
+# navbar-border-col: "#DDDDDD"    # default settings
+# footer-col: "#EAEAEA"           # default settings
+# footer-text-col: "#777777"      # default settings
+# footer-link-col: "#404040"      # default settings
+# footer-hover-col: "#0085A1"     # default settings
+
+page-col: "#121212"  /* Dark background for the page */
+text-col: "#E0E0E0"  /* Light text color for readability */
+link-col: "#64B5F6"  /* Light blue links for contrast */
+hover-col: "#42A5F5"  /* Hover effect on links (slightly darker blue) */
+navbar-col: "#333333"  /* Dark background for navbar */
+navbar-text-col: "#E0E0E0"  /* Light text in the navbar */
+navbar-border-col: "#444444"  /* Slightly lighter border for navbar */
+footer-col: "#333333"  /* Dark footer background */
+footer-text-col: "#B0B0B0"  /* Lighter text color for footer */
+footer-link-col: "#64B5F6"  /* Light blue for footer links */
+footer-hover-col: "#42A5F5"  /* Hover effect on footer links (matching link hover) */
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
