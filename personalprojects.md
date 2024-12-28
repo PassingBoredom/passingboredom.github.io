@@ -1,4 +1,9 @@
-# Personal Projects 
+---
+layout: page
+title: Personal Projects
+subtitle: Some Showcase
+---
+
 A showcase of some projects. Creating needlessly complicated solutions for relatively simple problems.
 
 <!-- ## Table of Contents                             -->
@@ -11,17 +16,17 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 *Scrape Rutgers IlabStatus page and display status directly into shell*  
 **Technologies Used**: Python
 
-![status]("assets/img/ilab_scraper_ss.png")
+![status](assets/img/ilab_scraper_ss.png)
 
 - Code in private repo. 
 
 --- 
 
 ## File Grabber 
-*Scrape professor's class page and download lectures are homeworks that aren't on my device*
+*Scrape professor's class page and download lectures and homeworks that aren't on my device*  
 **Technologies Used**: Python
 
-![traceback]("assets/img/prin_prog_traceback.png")
+![traceback](assets/img/prin_prog_traceback.png)
 
 - Code found in the same private repo mentioned previously
 	- also don't have image as it was tailored towards device and not using Chrome
