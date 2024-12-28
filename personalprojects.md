@@ -17,7 +17,7 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 **Technologies Used**: Python
 
 ![status](assets/img/ilab_scraper_ss.png)  
-[Code](https://github.com/PassingBoredom/glassshelf/tree/main/Status%20Checker)
+- [Code](https://github.com/PassingBoredom/glassshelf/tree/main/Status%20Checker)
 
 --- 
 
@@ -26,4 +26,5 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 **Technologies Used**: Python
 
 ![traceback](assets/img/prin_prog_traceback.png)  
-[Code](https://github.com/PassingBoredom/glassshelf/tree/main/File%20Grabber)
+- [Code](https://github.com/PassingBoredom/glassshelf/tree/main/File%20Grabber)
+	- Non-Functional image since I'm no longer using Chrome binaries
