@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Works:
      - Personal: "personalprojects"
-     - Coursework: "collegeprojects"
+     - Academic: "collegeprojects"
   Author's home: "https://passingboredom.github.io/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
