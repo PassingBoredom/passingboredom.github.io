@@ -6,11 +6,12 @@ subtitle: Who Am I
 
 My name is Alan Wang. I have the following qualities:
 
-- I am a hobbist programmer 
-- stubborn to get things to work and make sure they stay working
+- Enjoy some challenges
+- No pain, no gain. Assembly was Fun.
+- 01001000 01110101 01101101 01100001 01101110 00100000
 
 What else do you want from me? 
 
 ### My story
 
-Consuming Ones and Zeros until something exciting happens
+Consuming Ones and Zeros until something exciting happens...
