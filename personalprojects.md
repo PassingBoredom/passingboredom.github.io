@@ -25,6 +25,8 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 *Scrape professor's class page and download lectures and homeworks that aren't on my device*  
 **Technologies Used**: Python
 
-![traceback](assets/img/prin_prog_traceback.png)  
-- [Code](https://github.com/PassingBoredom/glassshelf/tree/main/File%20Grabber)
-	- Non-Functional image since I'm no longer using Chrome binaries
+<!-- ![traceback](assets/img/prin_prog_traceback.png)                                 -->
+<!-- - [Code](https://github.com/PassingBoredom/glassshelf/tree/main/File%20Grabber)  -->
+<!-- 	- Non-Functional image since I'm no longer using Chrome binaries              -->
+- Non-Functional, no longer using Chrome binaries. 
+- Have to rebuild the program 
