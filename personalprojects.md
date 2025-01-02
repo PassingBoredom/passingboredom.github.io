@@ -30,3 +30,10 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 <!-- 	- Non-Functional image since I'm no longer using Chrome binaries              -->
 - Non-Functional, no longer using Chrome binaries. 
 - Have to rebuild the program 
+
+## GUI Router Monitor
+* Graphic User Interace to use web scraper to monitor router status*
+**Technologies Used**: Rust
+
+![Makeshift GUI](assets/img/rust_router_gui.png)
+- [Code]()
