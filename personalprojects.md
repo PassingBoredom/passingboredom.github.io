@@ -36,4 +36,4 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 **Technologies Used**: Rust
 
 ![Makeshift GUI](assets/img/rust_router_gui.png)
-- [Code]()
+- [Code](https://github.com/PassingBoredom)
