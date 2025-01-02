@@ -32,7 +32,7 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 - Have to rebuild the program 
 
 ## GUI Router Monitor
-* Graphic User Interace to use web scraper to monitor router status*
+*Graphic User Interace to use web scraper to monitor router status*  
 **Technologies Used**: Rust
 
 ![Makeshift GUI](assets/img/rust_router_gui.png)
