@@ -21,19 +21,16 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 
 --- 
 
-## File Grabber 
-*Scrape professor's class page and download lectures and homeworks that aren't on my device*  
+## File Grabber
+*Scrape latest version of maps*  
 **Technologies Used**: Python
 
-<!-- ![traceback](assets/img/prin_prog_traceback.png)                                 -->
-<!-- - [Code](https://github.com/PassingBoredom/glassshelf/tree/main/File%20Grabber)  -->
-<!-- 	- Non-Functional image since I'm no longer using Chrome binaries              -->
-- Non-Functional, no longer using Chrome binaries. 
-- Have to rebuild the program 
+![traceback](assets/img/tf2_map_scraper.png)                               
+- [Code](https://github.com/PassingBoredom/glassshelf/tree/main/File%20Grabber)  
 
 ## GUI Router Monitor
 *Graphic User Interace to use web scraper to monitor router status*  
 **Technologies Used**: Rust
 
 ![Makeshift GUI](assets/img/rust_router_gui.png)
-- [Code](https://github.com/PassingBoredom)
+- [Code]()
