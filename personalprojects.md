@@ -25,7 +25,7 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 *Scrape latest version of maps*  
 **Technologies Used**: Python
 
-![traceback](assets/img/tf2_map_scraper.png)                               
+![traceback](assets/img/tf2_pt_maps.png)                               
 - [Code](https://github.com/PassingBoredom/glassshelf/tree/main/File%20Grabber)  
 
 ---
