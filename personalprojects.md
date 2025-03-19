@@ -28,9 +28,11 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 ![traceback](assets/img/tf2_map_scraper.png)                               
 - [Code](https://github.com/PassingBoredom/glassshelf/tree/main/File%20Grabber)  
 
+---
+
 ## GUI Router Monitor
 *Graphic User Interace to use web scraper to monitor router status*  
 **Technologies Used**: Rust
 
 ![Makeshift GUI](assets/img/rust_router_gui.png)
-- [Code]()
+- [Code](https://github.com/PassingBoredom/glassshelf/tree/main/GUI%20Monitor)
