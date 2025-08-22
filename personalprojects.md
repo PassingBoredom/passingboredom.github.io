@@ -37,8 +37,9 @@ A showcase of some projects. Creating needlessly complicated solutions for relat
 ![Makeshift GUI](assets/img/rust_router_gui.png)
 - [Code](https://github.com/PassingBoredom/glassshelf/tree/main/GUI%20Monitor)
 
+---
 
 ## Hackadayu Exercises
-*my solutions to the provided exercises from an 'online course' called hackadayu*
+*my solutions to the provided exercises from an 'online course' called hackadayu*   
 **Not a project, its just something that I did for fun**
 - [Code](https://github.com/PassingBoredom/glassshelf/blob/main/hackadayu/my_solutions.md)
